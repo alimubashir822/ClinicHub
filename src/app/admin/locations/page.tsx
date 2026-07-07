@@ -191,9 +191,9 @@ function LocationsPageContent() {
 
       // Pre-compile campaign copy
       const campaignName = `${name} Grand Opening Launch Campaign`;
-      const emailText = `Subject: Welcome to the brand new ${name} in ${city}! \n\nDear neighbor,\nWe are proud to announce the grand opening of our brand new, state-of-the-art facility at ${address}. Under our parent network CareFranchise OS, we have established premium clinical guidelines to serve the ${city} community. \n\nBook your opening week consultation online today: https://carefranchise.com/sites/${res.slug}/booking. \n\nWarm regards,\nThe team at ${name}`;
+      const emailText = `Subject: Welcome to the brand new ${name} in ${city}! \n\nDear neighbor,\nWe are proud to announce the grand opening of our brand new, state-of-the-art facility at ${address}. Under our parent network ClinicHub, we have established premium clinical guidelines to serve the ${city} community. \n\nBook your opening week consultation online today: https://carefranchise.com/sites/${res.slug}/booking. \n\nWarm regards,\nThe team at ${name}`;
       
-      const socialPost = `✨ We are officially LIVE! ✨\n\nCareFranchise OS is thrilled to welcome our newest clinic twin: ${name}! Located in the heart of ${city} at ${address}.\n\nSchedule your appointment in 60 seconds: https://carefranchise.com/sites/${res.slug}/booking\n\n#HealthCare #NewClinic #${city}Health`;
+      const socialPost = `✨ We are officially LIVE! ✨\n\nClinicHub is thrilled to welcome our newest clinic twin: ${name}! Located in the heart of ${city} at ${address}.\n\nSchedule your appointment in 60 seconds: https://carefranchise.com/sites/${res.slug}/booking\n\n#HealthCare #NewClinic #${city}Health`;
 
       const searchAd = `Headline 1: Top Rated ${templateType === 'DENTAL' ? 'Dentistry' : templateType === 'SPA' ? 'Med Spa' : 'Clinic'} in ${city}\nHeadline 2: Book Online at ${name}\nDescription: Now open in ${city}, TX! Offering specialized health services, board-certified doctors, and secure online scheduling. Visit our new clinic today!`;
 

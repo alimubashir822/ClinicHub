@@ -1,10 +1,10 @@
 Created & Developed by [Mubashir Ali](#developer-creator) (Full-Stack Healthcare Technology Engineer | AI Healthcare Solutions Builder)
 
-# 🏥 CareFranchise OS
+# 🏥 ClinicHub
 
 ## AI-Powered Healthcare Franchise Digital Operating System
 
-CareFranchise OS is a state-of-the-art Healthcare Franchise Digital Operating System built to help large healthcare organizations launch locations faster, maintain brand consistency, increase patient acquisition, and scale technical digital operations.
+ClinicHub is a state-of-the-art Healthcare Franchise Digital Operating System built to help large healthcare organizations launch locations faster, maintain brand consistency, increase patient acquisition, and scale technical digital operations.
 
 The system transitions traditional clinic websites into active, synchronized assets, pairing local customization options for clinic managers with robust corporate oversight tools for HQ administrators.
 

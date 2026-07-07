@@ -35,7 +35,7 @@ export default async function MarketingHomepage() {
         <div className="flex items-center gap-2">
           <span className="text-2xl">🧬</span>
           <div>
-            <h1 className="text-md font-bold tracking-tight text-white">CareFranchise OS</h1>
+            <h1 className="text-md font-bold tracking-tight text-white">ClinicHub</h1>
             <p className="text-[9px] text-slate-500 uppercase tracking-widest font-semibold">Franchise Operating System</p>
           </div>
         </div>
@@ -58,7 +58,7 @@ export default async function MarketingHomepage() {
         </h2>
         
         <p className="text-sm md:text-base text-slate-400 max-w-2xl mx-auto leading-relaxed">
-          CareFranchise OS helps dental groups, med spas, urgent care chains, and medical networks launch clinic websites, coordinate smart booking networks, and manage reputation compliance from one dashboard.
+          ClinicHub helps dental groups, med spas, urgent care chains, and medical networks launch clinic websites, coordinate smart booking networks, and manage reputation compliance from one dashboard.
         </p>
 
         <div className="pt-4 flex flex-wrap justify-center gap-4">
@@ -195,10 +195,10 @@ export default async function MarketingHomepage() {
       <footer className="py-12 border-t border-slate-900 text-center text-xs text-slate-500 max-w-7xl mx-auto w-full relative z-10">
         <div className="flex items-center justify-center gap-2 mb-4">
           <span className="text-xl">🧬</span>
-          <span className="font-extrabold text-white text-sm">CareFranchise OS</span>
+          <span className="font-extrabold text-white text-sm">ClinicHub</span>
         </div>
         <p className="mb-2">Enterprise Multi-location Health Growth Platform. HIPAA Compliant.</p>
-        <p>© 2026 CareFranchise OS. Built for healthcare franchises globally.</p>
+        <p>© 2026 ClinicHub. Built for healthcare franchises globally.</p>
         <p className="mt-2 text-[10px] text-slate-600">
           <a href="https://www.medclinicx.com/" target="_blank" rel="noopener noreferrer" className="hover:text-teal-400 hover:underline transition">
             Healthcare system by Med Clinic X

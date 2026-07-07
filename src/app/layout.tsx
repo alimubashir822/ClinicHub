@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "CareFranchise OS - Healthcare Franchise Growth Engine",
+  title: "ClinicHub - Healthcare Franchise Growth Engine",
   description: "Launch, manage, and optimize hundreds of clinic locations from one centralized system.",
 };
 

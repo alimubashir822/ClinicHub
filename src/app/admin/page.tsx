@@ -134,7 +134,7 @@ export default async function AdminDashboard() {
           <div className="flex items-center gap-2">
             <Badge variant="info" className="mb-2">Corporate HQ Control</Badge>
             <span className="text-xs text-indigo-400 font-semibold mb-2 flex items-center gap-1">
-              <Sparkles className="w-3.5 h-3.5" /> CareFranchise OS v1.2
+              <Sparkles className="w-3.5 h-3.5" /> ClinicHub v1.2
             </span>
           </div>
           <h2 className="text-2xl font-bold text-slate-100">

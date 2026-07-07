@@ -253,7 +253,7 @@ export default function RegionsClient({ initialRegions }: RegionsClientProps) {
             <Shield className="w-5 h-5 text-indigo-400" /> Enterprise Access Guard (RBAC)
           </CardTitle>
           <CardDescription className="text-xs">
-            Review authorized permissions hierarchy mapped across CareFranchise OS.
+            Review authorized permissions hierarchy mapped across ClinicHub.
           </CardDescription>
         </CardHeader>
         <CardContent className="space-y-4">

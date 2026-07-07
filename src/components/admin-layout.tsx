@@ -83,7 +83,7 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
           <span className="text-2xl">🧬</span>
           <div>
             <h1 className="text-xs font-bold tracking-tight text-transparent bg-clip-text bg-gradient-to-r from-teal-400 to-indigo-400">
-              CareFranchise OS
+              ClinicHub
             </h1>
             <p className="text-[8px] text-slate-500 font-medium uppercase tracking-wider">
               HQ Dashboard
@@ -108,7 +108,7 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
             <span className="text-2xl">🧬</span>
             <div>
               <h1 className="text-md font-bold tracking-tight text-transparent bg-clip-text bg-gradient-to-r from-teal-400 to-indigo-400">
-                CareFranchise OS
+                ClinicHub
               </h1>
               <p className="text-[10px] text-slate-500 font-medium uppercase tracking-wider">
                 Franchise Growth Engine
